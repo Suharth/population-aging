@@ -2,6 +2,9 @@
 Visualizing population aging using 'Median Age of Population' dataset from the UN to help make an argument as to why longevity research must be supported.
 
 <img src="population_aging.jpg">
+(Programmed on Python with pandas and matplotlib libraries using the 'Median Age of Population' dataset from https://population.un.org/wpp/Download/Standard/Population/)
+
+![Source code]<
 
 In recent years, there has been an upward trend in the median age of the population in most countries due to declining fertility rates and rising life expectancy. 
 The aged population is currently at its highest level in human history. The UN predicts the rate of population ageing in the twenty-first century will exceed that of the 
